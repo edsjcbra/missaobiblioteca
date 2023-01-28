@@ -11,10 +11,7 @@
         public string? Name { get; private set; }
         public string? Role_ID { get; private set; }
 
-        public virtual void RegisterRole()
-        {
-
-        }
+        public virtual void RegisterRole() { }
 
         public virtual void ListRoles() { }
     }
