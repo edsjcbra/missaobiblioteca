@@ -34,7 +34,8 @@ namespace MissaoBiblioteca
                     Student student = new Student(studentName, studentCpf);
 
                     student.RegisterRole();
-                    Console.WriteLine("Lista de Alunos cadastrados\n");
+                    Console.WriteLine("");
+                    Console.WriteLine("Aluno cadastrado: ");
                     student.ListRoles();
 
                     Console.Write("Deseja cadastrar outro Aluno ? S / N = ");
@@ -54,7 +55,8 @@ namespace MissaoBiblioteca
                     Librarian librarian = new Librarian(librarianName, librarianId);
 
                     librarian.RegisterRole();
-                    Console.WriteLine("Lista de Bibliotecarios cadastrados\n");
+                    Console.WriteLine("");
+                    Console.WriteLine("Bibliotecario cadastrado: ");
                     librarian.ListRoles();
 
                     Console.Write("Deseja cadastrar outro Bibliotecario ? S / N = ");

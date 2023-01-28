@@ -1,0 +1,15 @@
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\bin\Debug\net7.0\MissaoBiblioteca.exe
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\bin\Debug\net7.0\MissaoBiblioteca.deps.json
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\bin\Debug\net7.0\MissaoBiblioteca.runtimeconfig.json
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\bin\Debug\net7.0\MissaoBiblioteca.dll
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\bin\Debug\net7.0\MissaoBiblioteca.pdb
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\MissaoBiblioteca.csproj.AssemblyReference.cache
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\MissaoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\MissaoBiblioteca.AssemblyInfoInputs.cache
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\MissaoBiblioteca.AssemblyInfo.cs
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\MissaoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\MissaoBiblioteca.dll
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\refint\MissaoBiblioteca.dll
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\MissaoBiblioteca.pdb
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\MissaoBiblioteca.genruntimeconfig.cache
+C:\Apps\MissaoBiblioteca\MissaoBiblioteca\obj\Debug\net7.0\ref\MissaoBiblioteca.dll
