@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace MissaoBiblioteca
+﻿namespace MissaoBiblioteca
 {
     public class Librarian : BusinessRole
     {

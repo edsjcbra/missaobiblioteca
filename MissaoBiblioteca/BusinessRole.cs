@@ -1,7 +1,4 @@
-﻿using System.Reflection.Metadata;
-using System.Xml.Linq;
-
-namespace MissaoBiblioteca
+﻿namespace MissaoBiblioteca
 {
     public abstract class BusinessRole
     {
